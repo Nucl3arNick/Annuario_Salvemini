@@ -1,0 +1,53 @@
+.directory {
+  display: inline-block;
+  margin: 15px 8px 15px 8px;
+  vertical-align: top;
+  text-align: center;
+  
+}
+
+.icon {
+  display: inline-block;
+  
+};
+
+.icon a {
+  display: inline-block;
+  margin: 0px 8px 15px 8px;
+  padding: 20px;
+  vertical-align: top;
+  background-color: #d3d3d3;
+  text-align: center;
+  width: 175px;
+  height: 175px;
+  border-radius: 5px;
+  color: black;
+  text-decoration: none;
+  
+}
+
+.icon a:hover {
+  background-color: #8cc541;
+}
+
+.icon img {
+  height: 160px;
+  
+}
+
+.directory-name {
+  text-align: center;
+  margin: 5px;
+  width: 100%;
+  word-wrap: normal;
+  font-family: "Proxima Nova";
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing: 1pt;
+  
+}
+
+#introduction-img {
+  width: 100%;
+  max-width: 725px;
+}
